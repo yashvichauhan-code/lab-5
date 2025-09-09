@@ -17,7 +17,8 @@ int main()
         {
             negative++;
         }
-        else{
+        else if (num==0)
+        {
             zero++;
         }
         printf("do you want to continue? y/n: ");
