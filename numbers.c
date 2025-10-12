@@ -2,8 +2,7 @@
 #include<stdio.h>
 int main()
 {
-    int positive= 0, negative = 0, zero = 0;
-    int num;
+    int positive= 0, negative = 0, zero = 0, num;
     char ans = 'y';
     while(ans=='y' || ans=='Y')
     {
